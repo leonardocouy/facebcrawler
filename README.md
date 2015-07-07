@@ -1,5 +1,5 @@
 # FACEB Crawler #
-## English
+# English
 
 ## Description ##
 The goal of this script is get data of FACEB Academic Zone (My College)
@@ -24,8 +24,7 @@ Study, use and contribute!
 
 Thanks!
 
-## Brazilian Portuguese
---------------------------
+# Brazilian Portuguese
 
 ## Descrição ##
 O objetivo deste script é extrair informacoes de um portal academico da minha faculdade(FACEB), utilizando
@@ -34,7 +33,7 @@ Papel do BeautifulSoup é: Coletar/Extrair dados que estão sobre atributos de t
 Para autenticação e a obtenção do codigo-fonte da pagina se utiliza a lib
 Mechanize(https://github.com/jjlee/mechanize).
 
-## COMO RODAR? ##
+## Como Rodar? ##
     É recomendado ter Python 2.x!!!
     Se você preferir usar Python 3.x, você vai precisar instalar a biblioteca Mechanize Versão Não-Oficial
     Mechanize Versão Não-Oficial: http://web.cecs.pdx.edu/~adevore/mechanize/ e instale o BeautifulSoup Manualmente.
