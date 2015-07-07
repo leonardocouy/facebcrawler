@@ -10,7 +10,7 @@ import re
     --------------------------
     The goal of this script is get data of FACEB Academic Zone (My College)
     using BeautifulSoup(http://www.crummy.com/software/BeautifulSoup/) and Mechanize(https://github.com/jjlee/mechanize)
-    I'm use BeautifulSoup to Collect/Extract data that are about of HTML tags and
+    I'm using BeautifulSoup to Collect/Extract data that are about of HTML tags and
     Mechanize to authenticate and obtaining the source code of the page.
 
     HOW TO RUN?
