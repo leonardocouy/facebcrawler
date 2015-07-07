@@ -1,5 +1,5 @@
 # FACEB Crawler #
-# English
+### English
 
 ## Description ##
 The goal of this script is get data of FACEB Academic Zone (My College)
@@ -11,6 +11,7 @@ Mechanize to authenticate and obtaining the source code of the page.
     It's recommended to have Python 2.x!!!
     If you prefer to use Python 3.x, you will need install the lib Mechanize Unofficial Version
     Mechanize Unofficial Version: http://web.cecs.pdx.edu/~adevore/mechanize/ and install BeautifulSoup manually.
+
     1 - Install the requirements in your virtual environment(if you prefer)
         1.1 - Activate your virtualenv
         1.2 - pip install -r requirements.txt
@@ -24,7 +25,7 @@ Study, use and contribute!
 
 Thanks!
 
-# Brazilian Portuguese
+### Brazilian Portuguese
 
 ## Descrição ##
 O objetivo deste script é extrair informacoes de um portal academico da minha faculdade(FACEB), utilizando
@@ -37,6 +38,7 @@ Mechanize(https://github.com/jjlee/mechanize).
     É recomendado ter Python 2.x!!!
     Se você preferir usar Python 3.x, você vai precisar instalar a biblioteca Mechanize Versão Não-Oficial
     Mechanize Versão Não-Oficial: http://web.cecs.pdx.edu/~adevore/mechanize/ e instale o BeautifulSoup Manualmente.
+    
     1 - Instale os requirementos no seu ambiente virtual(se você preferir)
         1.1 - Ative seu ambiente virtual
         1.2 - pip install -r requirements.txt
